@@ -1,1 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this algorithm, please cite it as below."
+author:
+  - Anji Dong
+title: "Algorithm for Pollock's icosahedral and dodecahedral numbers conjectures"
+date-released: 2024-06-10
 
