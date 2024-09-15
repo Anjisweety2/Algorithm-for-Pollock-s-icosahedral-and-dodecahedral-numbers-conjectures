@@ -10,4 +10,5 @@ or 22 dodecahedral numbers. The actual output confirms that this statement is tr
 
 ### "Detailed Proof of Thm 1.3 and 1.4.pdf" file description
 This file contains a detailed explanation of the steps to complete the proofs of Theorem 1.3 and 1.4 in the paper (citation: Debmalya Basak, Anji Dong, Katerina Saettone, and Alexandru Zaharescu. Pollock’s Conjectures on Icosahedral and Dodecahedral Numbers. Preprint. 2024.).
+
 To be precise, using previous results in the paper, "Proof of Theorem 1.3" and "Proof of Theorem 1.4" solve the problems of writing numbers less than $9.6446 \times 10^{35}$ as a sum of at most 15 icosahedral numbers and writing numbers less than $5.04 \times 10^{38}$ as a sum of at most 22 dodecahedral numbers respectively.
